@@ -8,10 +8,17 @@
 
 </div>
 
-<h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4>
+### ❤️ This is a fork of official Wand-Enhancer & offer PreBuilt executable download. ❤️
 
-**🚨 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. 🚨
-There are no official videos showing how to install or use this tool. Scammers are creating fake tutorials using this project's name and placing malware/password stealers in the video descriptions. Official GitHub releases contain release notes only, not `.exe` files. If you downloaded an `.exe` or archive from a YouTube link, a random website, or a third-party mirror, you did not get it from this project. We are not responsible for third-party downloads.**
+<h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand (WeMod) application.</h4>
+
+🚨 Important: Official "Wand-Enhancer" has no YouTube guides or PreBuilt executable download. 🚨
+
+⚠️⚠️⚠️ There are no official videos showing how to install or use this tool. Scammers are creating fake tutorials using this project's name and placing malware/password stealers in the video descriptions. Official GitHub releases contain release notes only, not `.exe` files. If you downloaded an `.exe` or archive from a YouTube link, a random website, or a third-party mirror, you did not get it from this project. We are not responsible for third-party downloads. ⚠️⚠️⚠️
+
+## 📢 What about this fork. Is it virus/malware/password stealers? 📢
+No.
+Check the code, If you have any doubt. I just wat to help those who can not/don't want to PreBuilt executable themselves. I am a user also.
 
 ## 👾 What does it access?
 
@@ -62,7 +69,6 @@ This repository does not publish official compiled binaries. Build your own exec
 *Here how you do it:*
 
 https://github.com/user-attachments/assets/7966cabe-0aa6-424d-8c2f-981ad91e0f91
-
 
 
 ## 🧩 Custom scripts
